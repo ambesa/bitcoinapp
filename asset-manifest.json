@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bitcoinapp/static/css/main.cc4b3944.css",
+    "main.js": "/bitcoinapp/static/js/main.ceb710d3.js",
+    "index.html": "/bitcoinapp/index.html",
+    "main.cc4b3944.css.map": "/bitcoinapp/static/css/main.cc4b3944.css.map",
+    "main.ceb710d3.js.map": "/bitcoinapp/static/js/main.ceb710d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc4b3944.css",
+    "static/js/main.ceb710d3.js"
+  ]
+}
